@@ -1,6 +1,6 @@
 {
   "name": "kt-react-html-parser",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Parse HTML into React components",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
@@ -68,7 +68,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rimraf": "^3.0.2",
-    "webpack":  "^5.0.0"
+    "webpack": "^5.0.0"
   },
   "dependencies": {
     "htmlparser2": "^3.9.0"
