@@ -1,5 +1,5 @@
 import React from 'react';
-import { convertNodeToElement } from 'react-html-parser';
+import { convertNodeToElement } from 'kt-react-html-parser';
 
 const options = {
   decodeEntities: true,

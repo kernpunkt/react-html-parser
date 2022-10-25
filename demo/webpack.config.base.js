@@ -34,7 +34,7 @@ module.exports = {
     ],
     extensions: ['', '.js', '.scss'],
     alias: {
-      'react-html-parser': path.resolve(path.join('..', 'src'))
+      'kt-react-html-parser': path.resolve(path.join('..', 'src'))
     }
   },
   postcss: function() {
