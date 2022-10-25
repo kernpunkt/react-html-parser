@@ -1,6 +1,6 @@
 {
-  "name": "react-html-parser",
-  "version": "2.0.2",
+  "name": "kt-react-html-parser",
+  "version": "2.1.0",
   "description": "Parse HTML into React components",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wrakky/react-html-parser.git"
+    "url": "https://github.com/kernpunkt/react-html-parser.git"
   },
   "keywords": [
     "react",
