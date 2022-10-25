@@ -1,6 +1,6 @@
 {
   "name": "kt-react-html-parser",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Parse HTML into React components",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
